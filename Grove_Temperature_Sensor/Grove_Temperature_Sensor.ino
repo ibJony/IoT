@@ -1,4 +1,7 @@
-// demo of Starter Kit V2.0 - Grove Temperature Sensor
+// ibJony
+// Reference: Groove starter kit
+
+// Grove Temperature Sensor
 //
 
 const int pinTemp = A0;      // pin of temperature sensor

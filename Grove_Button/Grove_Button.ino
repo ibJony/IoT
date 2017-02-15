@@ -1,5 +1,6 @@
-// demo of Grove - Starter V2.0
-// Loovee  2013-3-10
+// ibJony
+// Reference: Groove starter kit
+
 // this demo will show you how to use Grove - Button to control a LED
 // when the button was pressed, the led will on 
 // otherwise led off

@@ -1,4 +1,7 @@
-// demo of Starter kit V2.0 - Grove - Light Sensor
+// ibJony
+// Reference: Groove starter kit
+
+// Light Sensor
 // when the value of light sensor ledd than a certain value
 // led will on, you can set this certain value via change thresholdvalue
 // such as when you cover light sensor with your hand, you'll find led on

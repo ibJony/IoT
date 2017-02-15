@@ -1,4 +1,7 @@
-// demo of Starter Kit V2.0 - Grove - Relay
+// ibJony
+// Reference: Groove starter kit
+
+//Grove - Relay
 // when a button press, relay will on
 
 const int buttonPin = 3;     // the button is attached to digital pin 3

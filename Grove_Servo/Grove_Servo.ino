@@ -1,4 +1,5 @@
-// demo of Starter Kit V2.0 - Servo
+// ibJony
+// Reference: Groove starter kit
 
 #include <Servo.h>
 

@@ -1,5 +1,6 @@
-// demo of Grove - Starter V2.0
-// Loovee  2013-3-10
+// ibJony
+// Reference: Groove starter kit
+
 // as the topic, we will use Grove - Led to make a breath light
 // Grove - LED connect to D3
 // the following pin which support PWM can be used:

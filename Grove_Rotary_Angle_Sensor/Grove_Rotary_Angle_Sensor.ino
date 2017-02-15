@@ -1,5 +1,5 @@
-// demo of Starter Kit V2.0
-
+// ibJony
+// Reference: Groove starter kit
 
 const int potentiometer = A0;                    // rotary angle sensor connect to A0
 
